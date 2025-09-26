@@ -1,0 +1,15 @@
+# Ignore processed data and outputs
+/data/cicids/*.csv
+/data/cicids/*.json
+/data/cicids/*.pkl
+
+# Ignore logs
+*.log
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env/
+venv/
