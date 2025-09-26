@@ -1,6 +1,5 @@
 # Ignore processed data and outputs
 /data/cicids/*.csv
-/data/cicids/*.json
 /data/cicids/*.pkl
 
 # Ignore logs
